@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.capstone.ar_tourguide"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.capstone.ar_tourguide"
