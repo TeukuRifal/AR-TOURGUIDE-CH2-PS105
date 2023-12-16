@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/onboarding2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_animation123"
+    tools:context=".onboarding.OnBoardingActivity2">
+
+    <TextView
+        android:id="@+id/obtext2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Discover the wonders of tourist attractions in a new way through AR technology."
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:maxLines="2"
+        android:padding="26dp"
+        app:layout_constraintBottom_toTopOf="@+id/ob2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.9" />
+
+    <ImageView
+        android:id="@+id/ob2"
+        android:layout_width="264dp"
+        android:layout_height="373dp"
+        android:src="@drawable/onboardingdua"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/started_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get Started"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.9"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
