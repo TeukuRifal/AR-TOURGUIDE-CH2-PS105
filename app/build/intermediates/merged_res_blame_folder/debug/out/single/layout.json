@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.capstone.ar_tourguide.app-mergeDebugResources-51:/layout/activity_main.xml",
+        "source": "com.capstone.ar_tourguide.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.capstone.ar_tourguide.app-mergeDebugResources-51:/layout/item_row_objek.xml",
+        "source": "com.capstone.ar_tourguide.app-main-54:/layout/item_row_objek.xml"
+    }
+]

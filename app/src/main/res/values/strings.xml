@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AR-Tourguide</string>
+    <string name="Home">Home\n</string>
+    <string name="Person">Person</string>
+    <string name="camera">camera\n</string>
+    <string name="object_name">object</string>
+    <string name="description">description</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="title_home">Home</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_profile">Profile</string>
+</resources>
