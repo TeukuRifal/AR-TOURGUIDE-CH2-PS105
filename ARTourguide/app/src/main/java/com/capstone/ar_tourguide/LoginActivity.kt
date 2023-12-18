@@ -7,6 +7,7 @@ import android.util.Patterns
 import android.widget.Toast
 import com.capstone.ar_tourguide.databinding.ActivityLoginBinding
 import com.google.firebase.auth.FirebaseAuth
+import com.google.firebase.auth.FirebaseUser
 
 class LoginActivity : AppCompatActivity() {
 
@@ -59,11 +60,30 @@ class LoginActivity : AppCompatActivity() {
             .addOnCompleteListener(this) {
                 if (it.isSuccessful) {
                     Toast.makeText(this, "Selamat datang di AR-Tourguide $email", Toast.LENGTH_SHORT).show()
-                    val intent = Intent(this, MainActivity::class.java)
+                    val intent = Intent(this, ProfileActivity::class.java)
                     startActivity(intent)
                 } else {
                     Toast.makeText(this, "${it.exception?.message}", Toast.LENGTH_SHORT).show()
                 }
             }
     }
+
+    private fun updateUI(currentUser: FirebaseUser?) {
+        if (currentUser != null){
+            startActivity(Intent(this@LoginActivity, ProfileActivity::class.java))
+            finish()
+        }
+    }
+
+    override fun onStart() {
+        super.onStart()
+        // Check if user is signed in (non-null) and update UI accordingly.
+        val currentUser = auth.currentUser
+        updateUI(currentUser)
+    }
+
+    companion object {
+        private const val TAG = "LoginActivity"
+    }
+
 }

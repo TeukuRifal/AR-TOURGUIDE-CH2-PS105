@@ -93,7 +93,7 @@
             android:backgroundTint="@color/marsgreen"
             android:minHeight="55dp"
             android:radius="10dp"
-            android:text="Register" />
+            android:text="Sign Up" />
 
         <TextView
             android:layout_width="match_parent"

@@ -58,4 +58,8 @@ dependencies {
     //Circle Profile
     implementation ("de.hdodenhof:circleimageview:3.1.0")
 
+    //Toolbar
+    implementation ("androidx.appcompat:appcompat:1.3.1")
+
+
 }
