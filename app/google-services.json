@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "255954849354",
+    "firebase_url": "https://project-id-tourguide-default-rtdb.firebaseio.com",
+    "project_id": "project-id-tourguide",
+    "storage_bucket": "project-id-tourguide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255954849354:android:453a1ffb1b4ba9b93220b3",
+        "android_client_info": {
+          "package_name": "com.capstone.ar_tourguide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ywRmsFZMibvblAR6wLZNnDCVOCLRn1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
