@@ -42,81 +42,81 @@
 23-->[androidx.core:core:1.9.0] C:\Users\ACER\.gradle\caches\transforms-3\b56696f2b9e4c9e8648e40475aa9f4d0\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 24
 25    <application
-25-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:5:5-43:19
+25-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:5:5-43:19
 26        android:allowBackup="true"
-26-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:6:9-35
+26-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:6:9-35
 27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 27-->[androidx.core:core:1.9.0] C:\Users\ACER\.gradle\caches\transforms-3\b56696f2b9e4c9e8648e40475aa9f4d0\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 28        android:dataExtractionRules="@xml/data_extraction_rules"
-28-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:7:9-65
+28-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:7:9-65
 29        android:debuggable="true"
 30        android:extractNativeLibs="false"
 31        android:fullBackupContent="@xml/backup_rules"
-31-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:8:9-54
+31-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:8:9-54
 32        android:icon="@mipmap/ic_launcher"
-32-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:9:9-43
+32-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:9:9-43
 33        android:label="@string/app_name"
-33-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:10:9-41
+33-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:10:9-41
 34        android:roundIcon="@mipmap/ic_launcher_round"
-34-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:11:9-54
+34-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:11:9-54
 35        android:supportsRtl="true"
-35-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:12:9-35
+35-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:12:9-35
 36        android:testOnly="true"
 37        android:theme="@style/Theme.ARTourguide" >
-37-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:13:9-49
+37-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:13:9-49
 38        <activity
-38-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:15:9-17:40
+38-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:15:9-17:40
 39            android:name="com.capstone.ar_tourguide.ProfileActivity"
-39-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:16:13-44
+39-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:16:13-44
 40            android:exported="false" />
-40-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:17:13-37
+40-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:17:13-37
 41        <activity
-41-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:18:9-20:40
+41-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:18:9-20:40
 42            android:name="com.capstone.ar_tourguide.RegisterActivity"
-42-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:19:13-45
+42-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:19:13-45
 43            android:exported="false" />
-43-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:20:13-37
+43-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:20:13-37
 44        <activity
-44-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:21:9-23:40
+44-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:21:9-23:40
 45            android:name="com.capstone.ar_tourguide.LoginActivity"
-45-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:22:13-42
+45-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:22:13-42
 46            android:exported="false" />
-46-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:23:13-37
+46-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:23:13-37
 47        <activity
-47-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:24:9-26:40
+47-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:24:9-26:40
 48            android:name="com.capstone.ar_tourguide.onboarding.OnBoardingActivity2"
-48-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:25:13-59
+48-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:25:13-59
 49            android:exported="false" />
-49-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:26:13-37
+49-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:26:13-37
 50        <activity
-50-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:27:9-29:40
+50-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:27:9-29:40
 51            android:name="com.capstone.ar_tourguide.onboarding.OnBoardingActivity1"
-51-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:28:13-59
+51-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:28:13-59
 52            android:exported="false" />
-52-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:29:13-37
+52-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:29:13-37
 53        <activity
-53-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:30:9-33:52
+53-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:30:9-33:52
 54            android:name="com.capstone.ar_tourguide.MainActivity"
-54-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:31:13-41
+54-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:31:13-41
 55            android:exported="false"
-55-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:32:13-37
+55-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:32:13-37
 56            android:screenOrientation="portrait" />
-56-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:33:13-49
+56-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:33:13-49
 57        <activity
-57-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:34:9-42:20
+57-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:34:9-42:20
 58            android:name="com.capstone.ar_tourguide.splash.SplashActivity"
-58-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:35:13-50
+58-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:35:13-50
 59            android:exported="true" >
-59-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:36:13-36
+59-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:36:13-36
 60            <intent-filter>
-60-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:37:13-41:29
+60-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:37:13-41:29
 61                <action android:name="android.intent.action.MAIN" />
-61-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:38:17-69
-61-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:38:25-66
+61-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:38:17-69
+61-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:38:25-66
 62
 63                <category android:name="android.intent.category.LAUNCHER" />
-63-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:40:17-77
-63-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\ARTourguide\app\src\main\AndroidManifest.xml:40:27-74
+63-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:40:17-77
+63-->C:\Users\ACER\AndroidStudioProjects\AR-TOURGUIDE-CH2-PS105\app\src\main\AndroidManifest.xml:40:27-74
 64            </intent-filter>
 65        </activity>
 66        <activity

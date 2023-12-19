@@ -37,6 +37,9 @@ class ProfileActivity : AppCompatActivity() {
 
         val toolbar: androidx.appcompat.widget.Toolbar = binding.toolbar
         setSupportActionBar(toolbar)
+
+        //buat remove title
+        supportActionBar?.title = null
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
