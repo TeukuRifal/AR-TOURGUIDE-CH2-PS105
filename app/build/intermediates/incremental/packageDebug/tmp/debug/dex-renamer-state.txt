@@ -1,4 +1,4 @@
-#Tue Dec 19 14:00:42 WIB 2023
+#Tue Dec 19 15:55:17 WIB 2023
 base.0=C\:\\Users\\ACER\\AndroidStudioProjects\\AR-TOURGUIDE-CH2-PS105\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\ACER\\AndroidStudioProjects\\AR-TOURGUIDE-CH2-PS105\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\ACER\\AndroidStudioProjects\\AR-TOURGUIDE-CH2-PS105\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex

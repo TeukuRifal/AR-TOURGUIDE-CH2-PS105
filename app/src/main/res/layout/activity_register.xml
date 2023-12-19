@@ -62,7 +62,8 @@
             android:background="@drawable/edittext_background"
             android:hint="Email"
             android:inputType="textEmailAddress"
-            android:minHeight="48dp" />
+            android:minHeight="48dp"
+            android:paddingStart="8dp"/>
 
         <TextView
             android:layout_width="wrap_content"
@@ -83,7 +84,8 @@
             android:background="@drawable/edittext_background"
             android:hint="Password"
             android:inputType="textPassword"
-            android:minHeight="48dp" />
+            android:minHeight="48dp"
+            android:paddingStart="8dp"/>
 
         <Button
             android:id="@+id/btn_register"
@@ -93,7 +95,9 @@
             android:backgroundTint="@color/marsgreen"
             android:minHeight="55dp"
             android:radius="10dp"
-            android:text="Sign Up" />
+            android:text="Sign Up"
+            android:textColor="@color/white"
+            app:layout_constraintVertical_bias="0.9"/>
 
         <TextView
             android:layout_width="match_parent"
