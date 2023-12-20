@@ -3,5 +3,15 @@
     <style name="Base.Theme.ARTourguide" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/marsgreen</item>
+        <item name="colorPrimaryVariant">@color/bluegreen</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/bluegreen</item>
+        <item name="colorSecondaryVariant">@color/marsgreen</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" >@color/marsgreen</item>
     </style>
 </resources>

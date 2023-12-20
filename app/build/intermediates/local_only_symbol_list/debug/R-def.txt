@@ -26,7 +26,6 @@ id edt_email_login
 id edt_email_register
 id edt_password_login
 id edt_password_register
-id language
 id logo
 id logout
 id next_button
@@ -38,7 +37,8 @@ id onboarding1
 id onboarding2
 id progressbar
 id started_button
-id theme
+id switch_dark
+id text_dark
 id toTourguideText
 id toolbar
 id tv_to_login
@@ -51,6 +51,7 @@ layout activity_on_boarding2
 layout activity_profile
 layout activity_register
 layout activity_splash
+layout activity_theme
 menu toolbar_menu
 mipmap ic_launcher
 mipmap ic_launcher_round

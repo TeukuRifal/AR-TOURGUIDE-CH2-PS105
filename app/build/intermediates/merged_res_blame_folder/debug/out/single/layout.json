@@ -1,11 +1,15 @@
 [
     {
+        "merged": "com.capstone.ar_tourguide.app-mergeDebugResources-39:/layout/activity_profile.xml",
+        "source": "com.capstone.ar_tourguide.app-main-42:/layout/activity_profile.xml"
+    },
+    {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-39:\\layout\\activity_on_boarding2.xml",
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-42:\\layout\\activity_on_boarding2.xml"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-mergeDebugResources-39:/layout/activity_register.xml",
-        "source": "com.capstone.ar_tourguide.app-main-42:/layout/activity_register.xml"
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-39:\\layout\\activity_theme.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-42:\\layout\\activity_theme.xml"
     },
     {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-39:\\layout\\activity_main.xml",
@@ -26,10 +30,6 @@
     {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-39:\\layout\\activity_profile.xml",
         "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-42:\\layout\\activity_profile.xml"
-    },
-    {
-        "merged": "com.capstone.ar_tourguide.app-mergeDebugResources-39:/layout/activity_login.xml",
-        "source": "com.capstone.ar_tourguide.app-main-42:/layout/activity_login.xml"
     },
     {
         "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-39:\\layout\\activity_login.xml",

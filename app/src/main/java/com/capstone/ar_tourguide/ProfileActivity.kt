@@ -49,14 +49,6 @@ class ProfileActivity : AppCompatActivity() {
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when (item.itemId) {
-            R.id.theme -> {
-                // Handle theme menu item click
-                return true
-            }
-            R.id.language -> {
-                // Handle Language menu item click
-                return true
-            }
             R.id.logout -> {
                 // Handle Logout menu item click
                 logoutUser()

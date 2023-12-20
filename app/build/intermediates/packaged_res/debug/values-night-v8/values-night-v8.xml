@@ -3,5 +3,15 @@
     <style name="Base.Theme.ARTourguide" parent="Theme.Material3.DayNight.NoActionBar">
         
         
+        
+        <item name="colorPrimary">@color/marsgreen</item>
+        <item name="colorPrimaryVariant">@color/bluegreen</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/bluegreen</item>
+        <item name="colorSecondaryVariant">@color/marsgreen</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">@color/marsgreen</item>
     </style>
 </resources>
