@@ -267,37 +267,3 @@ model.summary()
 # Saving the trained model as a Keras H5 file.
 saved_model_path = "./model_AR.h5"
 model.save(saved_model_path)
-
-# Model Pre-processing
-import cv2
-import numpy as np
-from tensorflow import keras
-
-# Load the saved model and make predictions on a sample image
-import numpy as np
-from tensorflow.keras.preprocessing import image
-
-loaded_model = tf.keras.models.load_model(saved_model_path)
-
-sample_image_path = '/content/monas.jpg'
-
-img = image.load_img(sample_image_path, target_size=(224, 224))
-img_array = image.img_to_array(img)
-img_array = np.expand_dims(img_array, axis=0)
-img_array = tf.keras.applications.xception.preprocess_input(img_array)
-
-predictions = loaded_model.predict(img_array)
-
-threshold = 0.6
-binary_prediction = (predictions > threshold).astype("int32")
-
-print("Raw Predictions:", predictions)
-print("Binary Prediction:", binary_prediction)
-
-if binary_prediction == 1:
-    print("Benar, ini Monas")
-else:
-    print("Ini bukan Monas")
-
-plt.imshow(img)
-plt.show()
