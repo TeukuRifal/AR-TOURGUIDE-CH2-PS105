@@ -44,10 +44,6 @@
         "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\fragment_profile.xml"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-mergeDebugResources-65:/layout/activity_login.xml",
-        "source": "com.capstone.ar_tourguide.app-main-68:/layout/activity_login.xml"
-    },
-    {
         "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\detail_wisata_cust.xml",
         "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\detail_wisata_cust.xml"
     },
@@ -58,6 +54,10 @@
     {
         "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\activity_on_boarding1.xml",
         "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_on_boarding1.xml"
+    },
+    {
+        "merged": "com.capstone.ar_tourguide.app-mergeDebugResources-65:/layout/activity_arcamera.xml",
+        "source": "com.capstone.ar_tourguide.app-main-68:/layout/activity_arcamera.xml"
     },
     {
         "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\activity_camera.xml",

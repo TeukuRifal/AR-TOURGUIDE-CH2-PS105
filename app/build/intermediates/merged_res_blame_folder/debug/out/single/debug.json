@@ -268,12 +268,12 @@
         "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-66:/layout_activity_login.xml.flat",
-        "source": "com.capstone.ar_tourguide.app-main-68:/layout/activity_login.xml"
-    },
-    {
         "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_detail_logo.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\detail_logo.png"
+    },
+    {
+        "merged": "com.capstone.ar_tourguide.app-merged_res-66:/layout_activity_arcamera.xml.flat",
+        "source": "com.capstone.ar_tourguide.app-main-68:/layout/activity_arcamera.xml"
     },
     {
         "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\xml_backup_rules.xml.flat",
@@ -308,12 +308,12 @@
         "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_ic_capture.xml.flat",
-        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\ic_capture.xml"
-    },
-    {
         "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_activity_login.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_ic_capture.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\ic_capture.xml"
     },
     {
         "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_activity_explore.xml.flat",

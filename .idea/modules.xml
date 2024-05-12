@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AR-Tourguide.iml" filepath="$PROJECT_DIR$/.idea/modules/AR-Tourguide.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AR-Tourguide.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AR-Tourguide.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AR-Tourguide.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AR-Tourguide.app.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AR-Tourguide.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AR-Tourguide.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AR-Tourguide.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AR-Tourguide.app.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.AR-Tourguide.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.AR-Tourguide.app.main.iml" />
     </modules>
   </component>
 </project>
