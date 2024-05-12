@@ -1,114 +1,378 @@
 [
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/xml_data_extraction_rules.xml.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_cardview_point_with_image.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\cardview_point_with_image.xml"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/drawable_ic_baseline_search_24.xml.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/drawable/ic_baseline_search_24.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\menu_toolbar_menu.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\menu\\toolbar_menu.xml"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_ic_baseline_person_pin_24.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\ic_baseline_person_pin_24.xml"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/drawable_ic_baseline_camera_alt_24.xml.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/drawable/ic_baseline_camera_alt_24.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_monas.jpg.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\monas.jpg"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/drawable_ic_dashboard_black_24dp.xml.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/drawable/ic_dashboard_black_24dp.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_ic_qr_code_scanner_24.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\ic_qr_code_scanner_24.xml"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/drawable_ic_baseline_settings_24.xml.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/drawable/ic_baseline_settings_24.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\raw_destinasi.json.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\raw\\destinasi.json"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\menu\\bottom_nav_menu.xml"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/drawable_ic_home_black_24dp.xml.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/drawable/ic_home_black_24dp.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\ic_baseline_home_24.xml"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_gradientgreen.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\gradientgreen.xml"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\logo.png"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/layout_item_row_objek.xml.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/layout/item_row_objek.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_bogor_cafe.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\bogor_cafe.png"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_gradient_background3.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\gradient_background3.xml"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_cafe_pesona_by_rotio.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\cafe_pesona_by_rotio.png"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_transparent_background.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\transparent_background.xml"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/drawable_ic_baseline_home_24.xml.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/drawable/ic_baseline_home_24.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\ic_notifications_black_24dp.xml"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_activity_detail_wisata.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_detail_wisata.xml"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/drawable_ic_notifications_black_24dp.xml.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/drawable/ic_notifications_black_24dp.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_loko_cafe_gambir.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\loko_cafe_gambir.png"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/layout_activity_main.xml.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/layout/activity_main.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\raw_artourguide.json.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\raw\\artourguide.json"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/xml_backup_rules.xml.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_detail.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\detail.png"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/drawable_transparent_background.xml.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/drawable/transparent_background.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/drawable_baseline_person_outline_24.xml.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/drawable/baseline_person_outline_24.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_banner_indo.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\banner_indo.png"
     },
     {
-        "merged": "com.capstone.ar_tourguide.app-merged_res-52:/drawable_ic_baseline_person_pin_24.xml.flat",
-        "source": "com.capstone.ar_tourguide.app-main-54:/drawable/ic_baseline_person_pin_24.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_gradient_animation123.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\gradient_animation123.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_ic_scan.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\ic_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_popup_image.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\popup_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_settings.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_gradient_background2.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\gradient_background2.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_covare_cafe_and_workspace.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\covare_cafe_and_workspace.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_onboardingdua.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\onboardingdua.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_onboardingsatu.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\onboardingsatu.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_tugu_tani.jpg.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\tugu_tani.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\menu_maps_option.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\menu\\maps_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_ic_baseline_save_alt_24.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\ic_baseline_save_alt_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_ic_baseline_note_add_24.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\ic_baseline_note_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_fragment_maps.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\fragment_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_explore.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\explore.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_bg_toolbar.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\bg_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_mesjid_al_istiqlal.jpg.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\mesjid_al_istiqlal.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_ic_backarrow.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\ic_backarrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_activity_arcamera.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_arcamera.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_activity_on_boarding1.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_on_boarding1.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_detail_wisata_cust.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\detail_wisata_cust.xml"
+    },
+    {
+        "merged": "com.capstone.ar_tourguide.app-merged_res-66:/layout_activity_explore.xml.flat",
+        "source": "com.capstone.ar_tourguide.app-main-68:/layout/activity_explore.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_gradient_background1.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\gradient_background1.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_fragment_detail.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\fragment_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_ic_account_circle.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\ic_account_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_ic_baseline_camera_alt_24.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\ic_baseline_camera_alt_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_oval_background.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\oval_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_item_place.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\item_place.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_detail_logo.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\detail_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_indonesia.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\indonesia.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_google_maps_logo.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\google_maps_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_activity_on_boarding2.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_on_boarding2.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_fragment_camera.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_l_kafe.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\l_kafe.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_ic_capture.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\ic_capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_activity_explore.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_explore.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\raw_monas.json.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\raw\\monas.json"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_cafe_placeholder.jpg.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\cafe_placeholder.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_activity_camera.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_fragment_placeholder.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\fragment_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_item_cafe.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\item_cafe.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_google_maps_logo24.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\google_maps_logo24.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-merged_res-66:\\drawable_scanmon.jpg.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\drawable\\scanmon.jpg"
     }
 ]

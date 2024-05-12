@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/cameraFragment">
+
+    <!-- Camera Fragment -->
+    <fragment
+        android:id="@+id/cameraFragment"
+        android:name="com.capstone.ar_tourguide.ui.camera.CameraFragment"
+        android:label="Camera Fragment">
+
+        <action
+            android:id="@+id/action_cameraFragment_to_detailWisataFragment"
+            app:destination="@id/detailWisataFragment" />
+    </fragment>
+
+    <!-- Detail Wisata Fragment -->
+    <fragment
+        android:id="@+id/detailWisataFragment"
+        android:name="com.capstone.ar_tourguide.ui.detail.DetailWisataFragment"
+        android:label="Detail Wisata Fragment">
+    </fragment>
+
+    <!-- Profile Activity -->
+    <activity
+        android:id="@+id/profileActivity"
+        android:name="com.capstone.ar_tourguide.ProfileActivity"
+        android:label="Profile Activity"
+        app:destination="@id/profileActivity" />
+
+    <!-- ... (Other destinations) ... -->
+
+</navigation>

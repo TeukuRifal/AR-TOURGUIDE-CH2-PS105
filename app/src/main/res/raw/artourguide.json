@@ -1,0 +1,37 @@
+[
+    {
+      "name": "L Kafe",
+      "address": "Gedung Perpustakaan Nasional, Jl. Medan Merdeka Sel. No.11, RT.11/RW.2, Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110",
+      "phone": "085710509855",
+      "opening_hours": "Setiap Hari 08.00–19.00",
+      "image": "https://storage.googleapis.com/artourguide/CAFE/L%20Kafe.png"
+    },
+    {
+      "name": "Covare Cafe & Workspace",
+      "address": "Jl. Abdul Muis No.8, RT.11/RW.8, Petojo Sel., Jakarta, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10160",
+      "instagram": "covare.id",
+      "opening_hours": "Senin - Jumat (10.00 - 21.00)",
+      "image": "https://storage.googleapis.com/artourguide/CAFE/Covare%20Cafe%20%26%20Workspace.png"
+    },
+    {
+      "name": "Loko Cafe Gambir",
+      "address": "Gambir, Kecamatan Gambir, Jakarta, Daerah Khusus Ibukota Jakarta 10110",
+      "phone": "08111754504",
+      "opening_hours": "Setiap Hari 07.00 - 22.00",
+      "image": "https://storage.googleapis.com/artourguide/CAFE/Loko%20Cafe%20Gambir.png"
+    },
+    {
+      "name": "Bogor Cafe",
+      "address": "Hotel Borobudur - Lobby Level, Jl. Lap. Banteng Selatan, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110",
+      "phone": "0213805555",
+      "opening_hours": "Setiap Hari 06.00 - 22.30",
+      "image": "https://storage.googleapis.com/artourguide/CAFE/Bogor%20Cafe.png"
+    },
+    {
+      "name": "Cafe Pesona by Roti O",
+      "address": "Gedung Sapta Pesona, Jl. Medan Merdeka Barat No.17, RT.2/RW.3, Gambir, Central Jakarta City, Jakarta 10110",
+      "opening_hours": "Senin - Sabtu (08.30 - 22.00), Minggu (08.30 - 21.30)",
+      "image": "https://storage.googleapis.com/artourguide/CAFE/Cafe%20Pesona%20by%20Roti%20O.png"
+    }
+  ]
+

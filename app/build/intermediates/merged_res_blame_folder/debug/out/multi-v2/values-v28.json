@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.capstone.ar_tourguide.app-mergeDebugResources-50:/values-v28/values-v28.xml",
+            "outputFile": "com.capstone.ar_tourguide.app-mergeDebugResources-64:/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-3\\7c56de638141fea9edb644f7d3fcc617\\transformed\\material-1.12.0-alpha02\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-3\\b19050b88a6718e5859802a53bb1551b\\transformed\\material-1.12.0-alpha02\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-3\\e8e82ebe359b8fbf9ac53ef44116a504\\transformed\\appcompat-1.6.1\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-3\\504c155e8b4afda854b71124afbf2641\\transformed\\appcompat-1.6.1\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",

@@ -1,0 +1,114 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/ivphoto"
+        android:layout_width="match_parent"
+        android:layout_height="230dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/monas" />
+
+    <LinearLayout
+        android:id="@+id/tabLayout"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        >
+
+        <ImageButton
+            android:id="@+id/logoDetail"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/oval_background"
+            android:contentDescription="TODO"
+            android:src="@drawable/detail" />
+
+        <ImageButton
+            android:id="@+id/explore"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/oval_background"
+            android:contentDescription="TODO"
+            android:src="@drawable/explore"
+            android:onClick="openExploreActivity"/>
+
+        <ImageButton
+            android:id="@+id/logoMaps"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="20dp"
+            android:layout_weight="1"
+            android:background="@drawable/oval_background"
+            android:contentDescription="TODO"
+            android:onClick="openMapsActivity"
+
+            android:src="@drawable/google_maps_logo" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/titleDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/description"
+        android:paddingTop="8dp"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/tvDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/descContent"
+        android:textSize="15sp"
+        android:textStyle="normal"
+        />
+
+    <TextView
+        android:id="@+id/titleHistory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/history"
+        android:paddingTop="8dp"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/tvHistory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/descContent"
+        android:textSize="15sp"
+        android:textStyle="normal"
+        />
+
+    <TextView
+        android:id="@+id/titleFunfact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/funfact"
+        android:paddingTop="8dp"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/tvFunfact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/descContent"
+        android:textSize="15sp"
+        android:textStyle="normal"
+        />
+</LinearLayout>
+
+</ScrollView>

@@ -4,11 +4,21 @@
     <string name="Person">Person</string>
     <string name="camera">camera\n</string>
     <string name="object_name">object</string>
-    <string name="description">description</string>
+    <string name="description">Deskripsi</string>
     <string name="title_activity_maps">MapsActivity</string>
     <string name="title_activity_main_page">MainPage</string>
     <string name="title_home">Home</string>
     <string name="title_camera">Camera</string>
     <string name="title_profile">Profile</string>
-
+    <string name="wisata_name">name</string>
+    <string name="history">Sejarah</string>
+    <string name="funfact">Fun Fact</string>
+    <string name="descContent">content</string>
+    <string name="tab_detail">Detail</string>
+    <string name="tab_explore">eksplore</string>
+    <string name="tab_maps">maps</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
 </resources>
