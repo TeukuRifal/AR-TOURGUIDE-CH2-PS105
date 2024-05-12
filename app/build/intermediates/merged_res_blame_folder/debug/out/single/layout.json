@@ -1,51 +1,27 @@
 [
     {
-        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\fragment_detail.xml",
-        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\fragment_detail.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\fragment_placeholder.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\fragment_placeholder.xml"
     },
     {
         "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\item_cafe.xml",
         "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\item_cafe.xml"
     },
     {
-        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\activity_splash.xml",
-        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_splash.xml"
-    },
-    {
         "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\fragment_camera.xml",
         "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\fragment_camera.xml"
     },
     {
-        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\activity_detail_wisata.xml",
-        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_detail_wisata.xml"
-    },
-    {
-        "merged": "com.capstone.ar_tourguide.app-mergeDebugResources-65:/layout/activity_explore.xml",
-        "source": "com.capstone.ar_tourguide.app-main-68:/layout/activity_explore.xml"
-    },
-    {
-        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\fragment_profile.xml",
-        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\fragment_profile.xml"
-    },
-    {
-        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\item_place.xml",
-        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\item_place.xml"
-    },
-    {
-        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\activity_on_boarding2.xml",
-        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_on_boarding2.xml"
-    },
-    {
-        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\activity_explore.xml",
-        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_explore.xml"
-    },
-    {
-        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\fragment_placeholder.xml",
-        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\fragment_placeholder.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_splash.xml"
     },
     {
         "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\activity_maps.xml",
         "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\activity_detail_wisata.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_detail_wisata.xml"
     },
     {
         "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\cardview_point_with_image.xml",
@@ -64,8 +40,20 @@
         "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\fragment_home.xml"
     },
     {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "com.capstone.ar_tourguide.app-mergeDebugResources-65:/layout/activity_login.xml",
+        "source": "com.capstone.ar_tourguide.app-main-68:/layout/activity_login.xml"
+    },
+    {
         "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\detail_wisata_cust.xml",
         "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\detail_wisata_cust.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\item_place.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\item_place.xml"
     },
     {
         "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\activity_on_boarding1.xml",
@@ -80,8 +68,16 @@
         "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_main.xml"
     },
     {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\activity_on_boarding2.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_on_boarding2.xml"
+    },
+    {
         "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\activity_register.xml",
         "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\activity_explore.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-main-68:\\layout\\activity_explore.xml"
     },
     {
         "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.capstone.ar_tourguide.app-mergeDebugResources-65:\\layout\\activity_profile.xml",
